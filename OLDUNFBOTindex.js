@@ -210,4 +210,4 @@ Cbot.on('ready', () => {
     logServerAttributes();
 });
 
-Cbot.login('NDk2ODM1MzgxODg3NjMxMzc1.DpWZ9Q.l_ZTb71VFp3YTUhipubb4tvSbug').catch(console.error);
+Cbot.login('').catch(console.error);
